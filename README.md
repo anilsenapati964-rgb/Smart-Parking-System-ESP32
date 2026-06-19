@@ -42,7 +42,7 @@ An IoT-based Smart Parking System using ESP32-S3 that monitors three parking slo
 
 ![Smart Parking Demo](Images/smart_parking_blynk_demo.gif)
 ## 🎬 Demo Video
-▶️ [Watch Simulation Demo](PASTE_GITHUB_VIDEO_URL_HERE)
+▶️ [Watch Simulation Demo](videos/simulation_demo.mp4)
 
 ## Features
 - Real-time parking slot monitoring

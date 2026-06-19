@@ -36,15 +36,19 @@ An IoT-based Smart Parking System using ESP32-S3 that monitors three parking slo
 - V3 → Available Slots + SuperChart
 - V4 → Gate Status
 
-## Demo Video
-Simulation of the Smart Parking System showing:
-- 3 IR-based parking slots
-- OLED display updates
-- Servo-controlled gate
-- Blynk dashboard monitoring
-- SuperChart updates
+# Smart Parking System using ESP32 and Blynk
 
-📹 Video: videos/simulation_demo.mp4
+## 🚗 Project Demo
+
+![Smart Parking Demo](Images/smart_parking_blynk_demo.gif)
+
+## Features
+- Real-time parking slot monitoring
+- Automatic servo-controlled gate
+- OLED display for local status
+- Blynk dashboard for remote monitoring
+- Parking usage analytics using SuperChart
+- LED indicators for each parking slot
 
 ## Future Enhancements
 - QR Code based parking entry

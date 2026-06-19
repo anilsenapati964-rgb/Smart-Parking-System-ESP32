@@ -44,7 +44,7 @@ Simulation of the Smart Parking System showing:
 - Blynk dashboard monitoring
 - SuperChart updates
 
-📹 Video: Demo Video/PARKING.mp4
+📹 Video: videos/simulation_demo.mp4
 
 ## Future Enhancements
 - QR Code based parking entry
